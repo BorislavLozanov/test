@@ -1,0 +1,29 @@
+body
+{
+
+}
+#wrapAll{}
+#wrapAll img{}
+#wrapTop{}
+#wrapMiddle{}
+
+#landingPage a
+{
+
+}
+.menuTreeHolder {margin-top: 5px;}
+#example{z-index:10;}
+.modal-backdrop.fade.in{z-index: 5;}
+a.btn.btn-primary.btn-small{display: none}
+a.btn.btn-info.btn-large{color: aqua;text-decoration: none;}
+ul.nav.nav-pills.nav-stacked li{background: crimson;opacity: 0.8;border-radius: 7px;margin-top: 5px;max-width: 120px;}
+ul.nav.nav-pills.nav-stacked li a{color: white;text-decoration: none;margin-left: 10px;background: crimson;}
+.span9.offset3{color: white;}
+.span9.offset3 p a.btn.btn-info.btn-large{float: right;}
+.span9.offset3 textarea{width: 698px;}
+#execute.span9.offset3 p.hacked img{width:350px;height: 300px;}
+#execute{display: none;}
+.span3.offset3 p.image{color: #fff;text-align: center;width: 170px;float: left;}
+.span3.offset3 p.image img{width: 170px;height: 140px;}
+.span3 p.image{color: #fff;text-align: center;width: 170px;float: left;}
+.span3 p.image img{width: 170px;height: 140px;}
